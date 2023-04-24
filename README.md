@@ -1,2 +1,0 @@
-# snapshot
-my personal site
